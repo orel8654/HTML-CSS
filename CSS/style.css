@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Работы GitHub</title>
+</head>
+<body>
+    <h2>Собственные мини-проекты</h2>
+    <p>Ссылка приведет вас на GitHub</p>
+    <ul>
+        <li>
+            <a href="https://github.com/orel8654/CasinoRoyal" target="_blank">CasinoRoyal 2.0</a>
+        </li>
+        <li>
+            <a href="https://github.com/orel8654/Pong-game" target="_blank">Pong-Game</a>
+        </li>
+    </ul>
+    <hr>
+    <h2>Сертификаты</h2>
+    <table cellspacing="15">
+        <tr>
+            <td>
+                <h4>Stepik. Курс для начинающих Python</h4>
+            </td>
+            <td>
+                <img src="IMG1.jpg" width="500" alt="Ошибка загрузки" />
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <h4>Stepik. Программирование на Python</h4>
+            </td>
+            <td>
+                <img src="IMG2.jpg" width="500" alt="Ошибка загрузки" />
+            </td>
+        </tr>
+            
+    </table>
+    <hr>
+    <h2>Дополнительные навыки</h2>
+    <ul>
+        <li>Понимание оболочки <strong>Unix</strong></li>
+        <li>Работа с терминалом: Начальный уровень</li>
+        <li><strong>Git</strong>: Средний  уровень</li>
+        <li><strong>HTML и CSS</strong>: Начальный уровень</li>
+        <li>Базы данных: Начальный уровень</li>
+        <li>Фреймворк <strong>Django</strong>: Начальный уровень</li>
+    </ul>
+    <hr>
+    
+    
+    
+</body>
+</html>
